@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Pablo Ruben Ilarragorri"
 resume_title:                   "Cloud Layer Engineering Lead"
 
