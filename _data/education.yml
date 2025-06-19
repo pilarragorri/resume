@@ -1,13 +1,14 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Tecnicatura Superior en Programacion
+  uni: UTN
+  year: 2008 - 2010
+  
+- degree: "Microsoft Certifications"
+  uni: Certifications
+  award: <ul class="resume-item-list"><li>Azure Administrator Associate</li><li>DevOps Engineer Expert</li><li>Microsoft Certified Azure Fundamentals</li></ul>
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: "Other Certifications"
+  award: <ul class="resume-item-list"><li>Red Hat Enterprise Certified System Administrator</li><li>Scrum Foundation Professional Certificate (SFPC)</li></ul>
+
+- degree: "Languages"
+  award: <ul class="resume-item-list"><li>Spanish - Native</li><li>English - C1 Advanced</li><li>Portuguese - B1.2 Intermediate</li></ul>

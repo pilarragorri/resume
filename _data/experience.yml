@@ -1,19 +1,25 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Cloud Layer Engineering Lead
+- company: EY
+  position: Cloud Layer Engineering Lead
+  duration: Sept, 2020 &mdash; Present
+  summary: Lead for the Engineering teams developing and maintaining all Cloud Layer products for the EY Fabric platform. Managing 100 engineers located across multiple locations and a total infrastructure budget of over 8M USD, I'm responsible for the team's technical delivery , defining objectives, best practices and providing advice to my Product Management counterparts and key business stakeholders.<ul class="resume-item-list"><li>Defined and implemented a set of best practices backed by well defined KPIs and reporting, resulting in considerable improvements across release management activities and overall team performance</li><li>Introduced cost-management practices, leading to a consistent 10% decrease in hosting charges year over year</li><li>Succesfully coordinated ISO 27001 / 27017 and SOC 2 certifications for EY Fabric as a platform. Enforcing best practices and generating automated mechanisms for compliance and evidence gathering</li><li>Sucesfully generated a culture of promotions from within the teams, resulting in over 90% of technical leadership roles covered by former engineers and developers</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# DevOps & Cloud Infrastructure Engineer
+- company: EY
+  position: DevOps & Cloud Infrastructure Engineer
+  duration:  Jan, 2018 &mdash; Sept, 2020
+  summary: Individual contributor and Technical Lead dedicated to accelerate the adoption of DevOps and Cloud Native practices across the EY Fabric Cloud Platform.<ul class="resume-item-list"><li>Developed an innersource infrastructure deployment automation framework for the entire Cloud Platform based on ARM templates and Ansible playbooks</li><li>Delivered an automated and customizable deployment experience for a CyberDefense suite of products including Infrastructure and Application deployment and configuration.</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
+# Unix & Linux Solutions Engineer
+- company: EY
   position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  duration:   Sept, 2015  &mdash; Jan, 2018
+  summary: Member of the Linux Engineering team, managing OS deployment , configuration management and specific project support on multiple platforms (On-Premise and Cloud Based).<ul class="resume-item-list"><li>Introduced and extended the usage of Puppet for OS configuration management based on Satellite 6 (Foreman) implementation</li><li>Introduced Ansible to the Linux Engineering team toolkit, managing large and complex inventories and developing multiple playbooks for operations automation</li></ul>
+
+  # Unix & Linux Solutions Engineer
+- company: BBVA
+  position: Linux Engineer
+  duration:   Feb, 2015  &mdash; Sept, 2015
+  summary: General Linux administration activities for digital modernization projects
