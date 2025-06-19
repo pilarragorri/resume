@@ -14,7 +14,7 @@
 
 # Unix & Linux Solutions Engineer
 - company: EY
-  position: Communications Coordinator
+  position: Linux Solutions Engineer
   duration:   Sept, 2015  &mdash; Jan, 2018
   summary: Member of the Linux Engineering team, managing OS deployment , configuration management and specific project support on multiple platforms (On-Premise and Cloud Based).<ul class="resume-item-list"><li>Introduced and extended the usage of Puppet for OS configuration management based on Satellite 6 (Foreman) implementation</li><li>Introduced Ansible to the Linux Engineering team toolkit, managing large and complex inventories and developing multiple playbooks for operations automation</li></ul>
 
