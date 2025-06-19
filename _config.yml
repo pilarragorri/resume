@@ -20,8 +20,8 @@ resume_title:                   "Cloud Layer Engineering Lead"
 #resume_contact_telephone:       ""
 #resume_contact_address:         ""
 
-resume_header_contact_info:     "Rua Sousa Viterbo 20 , Lisboa • (+315)927-315-333 • pilarragorri@gmail.com"
-display_header_contact_info:    "true"
+resume_header_contact_info:     ""
+display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Cloud Platform Engineering lead with +7 years of experience in the world of large-scale Cloud environments. Linux admin at heart, DevOps engineer and lead by career path, I'm always interested in building high performing engineering teams that can take on complex technical challenges.</p>"
 
