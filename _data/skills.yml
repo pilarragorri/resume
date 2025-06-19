@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
 - skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+  description: I have several years of experience leading large teams and navigating complex organizational structures with great results. I’m able to interact with technical SMEs and Business stakeholders alike, adapting my style to the situation in order to get the best results possible.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Strategic thinking and design
+- skill: Strategic thinking and design
+  description: I like to host and participate in strategy definiton activities, outlining multi-year goals and milestones. At the same time, I really enjoy lower level design sessions where there is a specific topic to focus on and figure out the best outcome.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Technical skills
+- skill: Technical Skills
+  description: I’ve been in contact with a multitude of tools and technologies across my career, these being the more relevant to this date.<ul class="resume-item-list"><li>Cloud Engineering and solution design (focusing on Azure Cloud)</li><li>Serverless solution design and deployment</li><li>Event-based and Request driven solution design and deployment</li><li>Infrastructure as Code using ARM, Terraform and Ansible</li><li>Configuration management using Ansible and Puppet</li><li>DevOps tooling using CLIs, scripting in Bash/Python/Powershell</li><li>Linux Administration (RHEL family and Ubuntu)</li></ul>
